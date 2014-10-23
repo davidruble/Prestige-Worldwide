@@ -1,0 +1,57 @@
+/*Made by David Ruble*/
+
+body 		{font-family: Garamond, Times, Arial, Verdana;
+			background-image: url(Images/sky1.jpg);
+			background-repeat: repeat;
+			background-attachment: fixed;
+			text-align: center;
+			font-size: 20px;}
+h1.mTitle	{text-align: center; 
+			display: inline; 
+			font-size: 58px;}
+h2.title		{text-align: center;
+			font-style: italic;
+			color: #545454;
+			display: inline;
+			font-size: 40px;}
+h2.subheading {font-style: italic;
+			  text-align: left;}
+h3.nav		{display: inline;
+			font-size: 20pt;}
+table			{margin-left: auto;
+			margin-right: auto;}
+div			{border-radius: 5px;}
+div.header	{height: 90%;
+		 	width: 75%;
+		 	border: none;
+		 	margin: 0 auto 0 auto;
+		 	background-color: #FFFFFF;
+			background-image: url(Images/landscape3test2.jpg);
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;
+		 	padding: 20px;
+			box-shadow: 1px 1px 80px 1px #FFFFFF;
+			behavior: url(PIE.htc);}
+div.main		{height: 90%;
+		 	width: 75%;
+		 	border: none;
+		 	overflow: auto;
+		 	margin: 0 auto 0 auto;
+		 	background-color: #FFFFFF;
+		 	padding: 20px;
+			box-shadow: 1px 1px 80px 1px #FFFFFF;
+			behavior: url(PIE.htc);}
+div.header	a:visited	{color: #000000; text-decoration: none;}
+div.header	a:link 		{color: #000000; text-decoration: none;}
+div.header	a:active 	{color: #000000; text-decoration: none;}
+div.header	a:hover 		{color: #0000FF; text-decoration: underline;}
+div.navbar	a:visited	{color: #000000; text-decoration: none;}
+div.navbar	a:link 		{color: #000000; text-decoration: none;}
+div.navbar	a:active 	{color: #000000; text-decoration: none;}
+div.navbar	a:hover 		{color: #0000FF; text-decoration: underline;}
+div.main		a:hover 		{color: #545454; text-decoration: underline;}
+p.left		{text-align: left;}
+a:link 		{color: #0000FF; text-decoration: none;}
+a:visited 	{color: #0000FF; text-decoration: none;}
+a:active 	{color: #0000FF; text-decoration: none;}
